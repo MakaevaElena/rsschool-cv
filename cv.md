@@ -18,7 +18,7 @@
 
 ### Briefly About Myself:
 
-3. Краткая информация о себе (ваша цель и приоритеты, подчеркните свои сильные стороны, расскажите о своём опыте работы, если опыта работы нет, расскажите о своём стремлении учиться и узнавать новое)
+Beginner frontend Developer with experience in creating landing pages, client-side react apps. I have B1 English level. I graduated from the React JS course at HtmlAcademy and I want to further develop in this direction.
 
 ---
 
